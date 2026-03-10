@@ -26,9 +26,10 @@
 <body> 
 
 
-
+<div class="content-container"> </div>
 <div class="discussion">
 <h1> discussion </h1>
+<hr>
 <br>
 <p> h </p>
 <br>
@@ -37,15 +38,27 @@
  
 <br>
 
-
+<div class="content-container"> </div>
 <div class="container">
 	<h1> header </h1>
+	<hr>
+	<br>
+	<p> h </p>
+	<br>
+	<p> r </p>
+	</div>
 	</div>
 	
 
-
-	<div class="info">
-		<h1> header </h1>
+<div class="content-container"> </div>
+<div class="info">
+	<h1> header </h1>
+	<hr>
+	<br>
+	<p> h </p>
+	<br>
+	<p> r </p>
+	</div>
 	</div>
 
 
