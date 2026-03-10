@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<html>
+
+<head>
+    <title> My website </title>
+    <link rel="stylesheet" href="css/stylesheet.css">
+
+
+    <header>
+		<nav>
+			<img src="images/openbook.jpg" alt="logo" width="200" height="200">
+			<ul class="menu">
+				<li><a href="index.html">Home</a></li>
+				<li><a href="aboutus.html">About</a></li>
+				<li><a href="discussion.html">Discussion</a></li>
+				<li><a href="donation.html">Donation</a></li>
+				<li><a href="blog.html">Blog</a></li>
+			</ul>
+		</nav>
+</header>
+</head>
+ 
+<hr>
+<br>
+<body> 
+
+
+
+<div class="discussion">
+<h1> discussion </h1>
+<br>
+<p> h </p>
+<br>
+<p> r </p>
+</div>
+ 
+<br>
+
+
+<div class="container">
+	<h1> header </h1>
+	</div>
+	
+
+
+	<div class="info">
+		<h1> header </h1>
+	</div>
+
+
+
+
+</body>
+
+
+
+<footer> 
+	<h1> Thank you for visiting! </h1>
+</footer>
+
+
+</html>
