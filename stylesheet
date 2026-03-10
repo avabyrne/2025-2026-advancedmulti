@@ -1,0 +1,95 @@
+/* header one */
+h1 {
+	color: white;
+}
+
+
+/*nav bar */
+nav a:hover {
+    color: white
+}
+ 
+ 
+nav li {
+	display: inline; 
+	margin: 10px; 
+}
+
+
+nav {
+	position: center +10px;
+}
+
+
+
+/* Header */
+header{
+	text-align: center;
+	background-color: #706c6c;
+	padding: 88px;
+	
+ }
+
+ 
+  /* footer */
+footer{
+	text-align: center;
+	background-color: #706c6c;
+	color: white;
+	width: 100%;
+	bottom: 0;
+	position: fixed;
+
+ }
+ 
+
+ 
+/* images */
+ .book {
+    width: 700px;
+
+ }
+    
+
+
+ /* container right */
+ .container {
+    width: 45%;
+	border-style: groove;
+	border-color: #888888;
+	background: #c9c9c9;      
+    border-radius: 8px;
+	padding: 20px;
+	overflow: auto;
+	display: flex;
+	float: right;
+
+
+ }
+ /* container left */
+ .info {
+    width: 45%;
+	border-style: groove;
+	border-color: #888888;
+	background: #c9c9c9;      
+    border-radius: 8px;
+	padding: 20px;
+	overflow: auto;
+	display: flex;
+	float: left;
+
+
+ }
+
+
+ .discussion {
+	width: 97%;
+	border-style: groove;
+	border-color: #888888;
+	background: #c9c9c9;      
+    border-radius: 8px;
+	padding: 20px;
+	overflow: auto;
+	display: flex;
+
+ }
