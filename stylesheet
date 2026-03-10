@@ -65,6 +65,7 @@ footer{
 
 
  }
+ 
  /* container left */
  .info {
     width: 45%;
@@ -80,7 +81,7 @@ footer{
 
  }
 
-
+/* large container for discussions*/
  .discussion {
     width: 97%;
 	border-style: groove;
@@ -89,6 +90,7 @@ footer{
     border-radius: 8px;
 
  }
+
 
 
 .content-container {
