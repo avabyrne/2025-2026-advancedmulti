@@ -61,7 +61,6 @@ footer{
     border-radius: 8px;
 	padding: 20px;
 	overflow: auto;
-	display: flex;
 	float: right;
 
 
@@ -75,21 +74,33 @@ footer{
     border-radius: 8px;
 	padding: 20px;
 	overflow: auto;
-	display: flex;
 	float: left;
+
 
 
  }
 
 
  .discussion {
-	width: 97%;
+    width: 97%;
 	border-style: groove;
 	border-color: #888888;
 	background: #c9c9c9;      
     border-radius: 8px;
-	padding: 20px;
-	overflow: auto;
-	display: flex;
 
  }
+
+
+.content-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 30px;
+    padding: 20px;
+	overflow: auto;
+
+}
+
+body{
+	overflow:scroll;
+	}
