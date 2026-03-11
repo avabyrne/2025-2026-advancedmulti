@@ -4,6 +4,107 @@
 
 <head>
     <title> My website </title>
+    <link rel="stylesheet" href="stylesheet.css">
+
+
+    <header>
+		<nav>
+			<img src="images/openbook.jpg" alt="logo" width="200" height="200">
+			<ul class="menu">
+				<li><a href="index.html">Home</a></li>
+				<li><a href="about.html">About</a></li>
+				<li><a href="discussion.html">Discussion</a></li>
+				<li><a href="donation.html">Donation</a></li>
+				<li><a href="blog.html">Blog</a></li>
+			</ul>
+		</nav>
+</header>
+</head>
+ 
+
+<br>
+<body>
+
+<div class="blog-container">
+
+    <h1>Blog</h1>
+
+    <div class="blog-post">
+        <img src="" alt="profile">
+
+        <div class="post-text">
+            <h3>Post Title</h3>
+            <p>Blog post text</p>
+        </div>
+    </div>
+
+    <div class="blog-post">
+        <img src="" alt="profile">
+
+        <div class="post-text">
+            <h3>Another Post</h3>
+            <p>text</p>
+        </div>
+    </div>
+
+    <div class="blog-post">
+        <img src="" alt="profile">
+
+        <div class="post-text">
+            <h3>Third Post</h3>
+            <p>More text here</p>
+        </div>
+    </div>
+
+</div>
+
+</body>
+
+
+
+<footer> 
+	<h1> Thank you for visiting! </h1>
+</footer>
+
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<html>
+
+<head>
+    <title> My website </title>
     <link rel="stylesheet" href="css/stylesheet.css">
 
 
