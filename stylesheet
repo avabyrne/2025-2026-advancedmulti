@@ -1,6 +1,216 @@
 /* header one */
 h1 {
 	color: white;
+	text-align: center;
+}
+
+
+/*nav bar */
+nav a:hover {
+    color: white
+}
+ 
+ 
+nav li {
+	display: inline; 
+	margin: 10px; 
+}
+
+
+nav {
+	position: center +10px;
+}
+
+
+
+/* Header */
+header{
+	text-align: center;
+	background-color: #706c6c;
+	padding: 88px;
+	
+ }
+
+ 
+  /* footer */
+footer{
+	text-align: center;
+	background-color: #706c6c;
+	color: white;
+	width: 100%;
+	bottom: 0;
+	position: fixed;
+
+ }
+ 
+
+ 
+/* images */
+ .book {
+    width: 700px;
+
+ }
+    
+.container {
+    flex: 1;
+    border-style: groove;
+    border-color: #888888;
+    background: #c9c9c9;      
+    border-radius: 8px;
+    padding: 20px;
+    aspect-ratio: 1 / 1; 
+}
+
+.info {
+    flex: 1;
+    border-style: groove;
+    border-color: #888888;
+    background: #c9c9c9;      
+    border-radius: 8px;
+    padding: 20px;
+    aspect-ratio: 1 / 1; 
+}
+
+
+/* large container for discussions*/
+ .discussion {
+    width: 97%;
+	border-style: groove;
+	border-color: #888888;
+	background: #c9c9c9;      
+    border-radius: 8px;
+
+ }
+
+
+
+.content-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 30px;
+    padding: 20px;
+	overflow: auto;
+
+}
+
+body{
+	overflow:scroll;
+	}
+
+/*Code for discussion page*/
+.discussion-layout{
+    display: flex;
+    gap: 30px;
+    padding: 20px;
+}
+
+/* big left box */
+.discussion{
+    flex: 2;
+    border-style: groove;
+    border-color: #888888;
+    background: #c9c9c9;
+    border-radius: 8px;
+    padding: 20px;
+}
+
+/* right column */
+.side-column{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+/* right boxes */
+.container, .info{
+    border-style: groove;
+    border-color: #888888;
+    background: #c9c9c9;
+    border-radius: 8px;
+    padding: 20px;
+}
+
+/*code for blog page*/
+.blog-container{
+    width: 90%;
+    margin: auto;
+    border-style: groove;
+    border-color: #888888;
+    background: #c9c9c9;
+    border-radius: 8px;
+    padding: 20px;
+}
+
+/* each blog post row */
+.blog-post{
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    padding: 20px;
+    border-bottom: 1px solid #888;
+}
+
+/* small left image */
+.blog-post img{
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    border-radius: 6px;
+}
+
+/* text area */
+.post-text{
+    flex: 1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* header one */
+h1 {
+	color: white;
 }
 
 
