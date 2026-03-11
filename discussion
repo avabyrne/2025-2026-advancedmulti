@@ -4,6 +4,241 @@
 
 <head>
     <title> My website </title>
+    <link rel="stylesheet" href="stylesheet.css">
+
+
+    <header>
+		<nav>
+			<img src="images/openbook.jpg" alt="logo" width="200" height="200">
+			<ul class="menu">
+				<li><a href="index.html">Home</a></li>
+				<li><a href="about.html">About</a></li>
+				<li><a href="discussion.html">Discussion</a></li>
+				<li><a href="donation.html">Donation</a></li>
+				<li><a href="blog.html">Blog</a></li>
+			</ul>
+		</nav>
+</header>
+</head>
+ 
+
+<hr>
+<br>
+<body>
+
+<div class="discussion-layout">
+
+    <!-- Left large container -->
+    <div class="discussion">
+        <h1>Discussion</h1>
+        <hr>
+        <p>h</p>
+        <p>r</p>
+    </div>
+
+    <!-- Right side column -->
+    <div class="side-column">
+
+        <div class="container">
+            <h1>Header</h1>
+            <hr>
+            <p>h</p>
+            <p>r</p>
+        </div>
+
+        <div class="info">
+            <h1>Header</h1>
+            <hr>
+            <p>h</p>
+            <p>r</p>
+        </div>
+
+    </div>
+
+</div>
+
+</body>
+
+
+
+<footer> 
+	<h1> Thank you for visiting! </h1>
+</footer>
+
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<html>
+
+<head>
+    <title> My website </title>
+    <link rel="stylesheet" href="css/stylesheet.css">
+
+
+    <header>
+		<nav>
+			<img src="images/openbook.jpg" alt="logo" width="200" height="200">
+			<ul class="menu">
+				<li><a href="index.html">Home</a></li>
+				<li><a href="aboutus.html">About</a></li>
+				<li><a href="discussion.html">Discussion</a></li>
+				<li><a href="donation.html">Donation</a></li>
+				<li><a href="blog.html">Blog</a></li>
+			</ul>
+		</nav>
+</header>
+</head>
+ 
+<hr>
+<br>
+<body> 
+
+
+<div class="content-container"> </div>
+<div class="discussion">
+<h1> discussion </h1>
+<hr>
+<br>
+<p> h </p>
+<br>
+<p> r </p>
+</div>
+ 
+<br>
+
+<div class="content-container"> </div>
+<div class="container">
+	<h1> 123 </h1>
+	<hr>
+	<br>
+	<p> h </p>
+	<br>
+	<p> r </p>
+	</div>
+	</div>
+	
+
+<div class="content-container"> </div>
+<div class="info">
+	<h1> header </h1>
+	<hr>
+	<br>
+	<p> h </p>
+	<br>
+	<p> r </p>
+	</div>
+	</div>
+
+
+
+
+</body>
+
+
+
+<footer> 
+	<h1> Thank you for visiting! </h1>
+</footer>
+
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<html>
+
+<head>
+    <title> My website </title>
     <link rel="stylesheet" href="css/stylesheet.css">
 
 
